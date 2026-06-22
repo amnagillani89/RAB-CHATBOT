@@ -1,0 +1,20 @@
+Aman Naveed
+BS Software Engineering Student
+University of Management and Technology (UMT)
+
+Professional Summary
+Motivated Software Engineering student currently studying in the 6th semester at UMT.
+
+Education
+Bachelor of Science in Software Engineering
+Current Semester: 6th
+
+Technical Skills
+C++, Python, Java
+Database Systems, NLP, DSA
+
+Projects
+Chatbot, Library System, Student Management System
+
+Interests
+AI, NLP, Software Development
